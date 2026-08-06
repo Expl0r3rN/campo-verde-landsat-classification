@@ -1,0 +1,11 @@
+Paper item,Generated file,Protocol
+Table 3,TABLE3_FINAL_3FOLD_METRICS_FOR_PAPER.csv,Final random stratified 3-fold CV
+Fig. 2,fig2_class_distribution_etiquetasjul.png,Raw EtiquetasJul.tif active labels
+Fig. 3,fig3_neural_parameter_counts.png,Neural model parameter counts
+Fig. 4,fig4_fold_level_accuracy_stability.png,Final random stratified 3-fold CV
+Fig. 5,fig5_mlp_1dcnn_learning_curves.png,Paper-style neural diagnostics
+Fig. 6,fig6_cnnlstm_2dcnn_learning_curves.png,Paper-style neural diagnostics
+Fig. 7,fig7_temporal_deep_learning_confusion_matrices.png,3-fold aggregate confusion matrix
+Fig. 8,fig8_dense_and_spatial_cnn_confusion_matrices.png,3-fold aggregate confusion matrix
+Fig. 9,fig9_tree_ensemble_confusion_matrices.png,3-fold aggregate confusion matrix
+Fig. 10,fig10_svm_logreg_confusion_matrices.png,3-fold aggregate confusion matrix

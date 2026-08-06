@@ -1,0 +1,2 @@
+Model,Accuracy_mean,Accuracy_std,Macro F1_mean,Macro F1_std,Weighted F1_mean,Weighted F1_std,Accuracy (mean ± std),Macro F1 (mean ± std),Weighted F1 (mean ± std)
+Patch-based 2D CNN,0.7570310190621538,0.0019098863287054795,0.6251778891488992,0.0028548402671239245,0.7014310091242425,0.0031787592181043802,0.757031 ± 0.001910,0.625178 ± 0.002855,0.701431 ± 0.003179

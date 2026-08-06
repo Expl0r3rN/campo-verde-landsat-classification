@@ -1,0 +1,5 @@
+Model,Trainable parameters
+MLP Neural Network,65033
+1D CNN,77321
+CNN-LSTM,176137
+Patch-based 2D CNN,47849

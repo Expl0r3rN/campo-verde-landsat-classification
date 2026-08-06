@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Large/raw remote sensing data
+LANDSAT_*/
+*.tif
+*.tiff
+
+# Saved models
+*.pkl
+*.keras
+*.h5
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
